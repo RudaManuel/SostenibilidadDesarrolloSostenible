@@ -6,7 +6,7 @@ El _**Desarrollo Sostenible**_ es una filosofía que busca satisfacer las necesi
 
 En este proyecto creado por 👥 3 alumnos vamos a ver diversos aspectos que son fundamentales para la sostenibilidad y el desarrollo sostenible, comenzando con los conceptos para poder entender a qué nos referimos al hablar de estos puntos.
 
-Vamos a analizar la 🌍 _** Agenda 2030**_ y los **ODS** y entender lo que la _**sigla ASG**_ nos quiere decir.
+Vamos a analizar la 🌍 _**Agenda 2030**_ y los **ODS** y entender lo que la _**sigla ASG**_ nos quiere decir.
 
 Otros aspectos importantes en la sostenibilidad es el 🏛️ _**marco normativo y regulador en Europa**_, con sus políticas y leyes para guiar las acciones de los países y empresas hacia el desarrollo sostenible.
 
