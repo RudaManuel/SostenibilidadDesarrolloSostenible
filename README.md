@@ -14,17 +14,17 @@ _Un trabajo sobre Sostenibilidad_
 
 ---
 
-## Conclusiones
+## 📑 Conclusiones
 [Ver documento](conclusiones.md)
 
 ## Mapa conceptual
 [Ver documento](mapa_conceptual.md)
 
-## Glosario
+## 📘 Glosario
 [Ver documento](glosario.md)
 
-## Referencias
+## 📖 Referencias
 [Ver documento](referencias.md)
 
-## Autores
+## ✍️ Autores
 [Ver documento](autores.md)
