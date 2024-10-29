@@ -5,7 +5,7 @@ _Un trabajo sobre Sostenibilidad_
 
 ## 📑 Índice
 
-1. [Introducción](introducción.md)
+1. [Introducción](introduccion.md)
 2. [Sostenibilidad y desarrollo sostenible](./sostenibilidad_desarrollo.md)
 3. [¿Qué significa la sigla ASG?](./sigla_asg.md)
 4. [La Agenda 2030 y los ODS](./agenda_2030_ods.md)
