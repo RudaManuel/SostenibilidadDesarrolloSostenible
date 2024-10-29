@@ -14,26 +14,6 @@ _Un trabajo sobre Sostenibilidad_
 
 ---
 
-## Introducción
-Aquí va el contenido de la introducción.
-
-## Sostenibilidad y desarrollo sostenible
-Contenido de esta sección.
-
-## ¿Qué significa la sigla ASG?
-Contenido de esta sección.
-
-## La Agenda 2030 y los ODS
-Contenido de esta sección.
-
-## Marco normativo y regulador de la sostenibilidad en Europa
-Contenido de esta sección.
-
-## Evaluación del desempeño en sostenibilidad de las empresas
-Contenido de esta sección.
-
----
-
 ## Conclusiones
 ## Mapa conceptual _(Herramientas utilizadas)_
 ## Glosario
