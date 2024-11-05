@@ -1,9 +1,4 @@
-
-
-https://www.etoro.com/es/investing/esg-investing/
-https://www.pactomundial.org/noticia/la-sostenibilidad-empresarial-desde-las-siglas-asg-o-esg/
-https://responsabilidadsocial.net/criterios-asg-y-esg-que-son-significado-indicadores-y-principios/
-
+**Sigas ASG**
 
 El enfoque ASG representa una evolución en la forma en que las empresas operan, pasando de un modelo centrado únicamente en los beneficios financieros a uno que considera también el impacto social y ambiental de sus actividades.
 Las siglas ASG (o ESG en inglés) son las iniciales de los tres pilares de la sostenibilidad , lo ambiental , lo social y lo gubernamental , cada uno con unos criterios claros:
