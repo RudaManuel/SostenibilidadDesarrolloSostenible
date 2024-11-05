@@ -1,6 +1,6 @@
 # **Introduccion**
 
-El concepto de 🌱 _**sostenibilidad**_  se ha posicionado como un tema central para el desarrolloglobal, ya que necesitamos un equilibrio económico, social y ambiental.
+El concepto de 🌱 _**sostenibilidad**_  se ha posicionado como un tema central para el desarrollo global, ya que necesitamos un equilibrio económico, social y ambiental.
 
 El _**Desarrollo Sostenible**_ es una filosofía que busca satisfacer las necesidades del presente sin comprometer los recursos y oportunidades de las _**generaciones futuras**_.
 
