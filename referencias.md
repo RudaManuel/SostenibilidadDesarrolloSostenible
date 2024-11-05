@@ -36,60 +36,22 @@ Evaluación del desempeño en sostenibilidad de las empresas:
  
     • Global Reporting Initiative (GRI). "Standards." Disponible en: https://www.globalreporting.org
     
-    • GRI ofrece lineamientos ampliamente utilizados en el mundo corporativo para reportar el desempeño en sostenibilidad, cubriendo aspectos económicos, ambientales y sociales.
-    
-    • Sustainability Accounting Standards Board (SASB):
-    
     • Sustainability Accounting Standards Board. "Standards Overview." Disponible en: https://www.sasb.org
-    
-    • SASB proporciona estándares específicos por industria para identificar los temas de sostenibilidad material que son más relevantes para los inversionistas.
-    
-    • Task Force on Climate-related Financial Disclosures (TCFD):
     
     • Task Force on Climate-related Financial Disclosures. "Recommendations of the Task Force on Climate-related Financial Disclosures." Disponible en: https://www.fsb-tcfd.org
     
-    • TCFD promueve la transparencia en la divulgación de los riesgos y oportunidades financieros relacionados con el cambio climático.
-    
-    • Dow Jones Sustainability Index (DJSI):
-    
     • S&P Global. "Dow Jones Sustainability Indices." Disponible en: https://www.spglobal.com/esg/csa/indices/djsi-index-family/
-    
-    • El DJSI clasifica a las empresas según su desempeño en sostenibilidad y es un referente global en índices de sostenibilidad.
-    
-    • Calificación ESG (MSCI y Sustainalytics):
     
     • MSCI Inc. "ESG Ratings and Climate Search Tool." Disponible en: https://www.msci.com
     
     • Sustainalytics. "ESG Risk Ratings." Disponible en: https://www.sustainalytics.com
     
-    • Tanto MSCI como Sustainalytics ofrecen calificaciones ESG que ayudan a los inversionistas a evaluar el desempeño en sostenibilidad de las empresas.
-    
-    • EcoVadis:
-    
     • EcoVadis. "Sustainability Ratings." Disponible en: https://ecovadis.com
-    
-    • EcoVadis evalúa el desempeño sostenible de empresas en diferentes industrias, proporcionando calificaciones basadas en una serie de criterios ESG.
-    
-    • ISO 26000: Responsabilidad Social Corporativa:
     
     • International Organization for Standardization. "ISO 26000 - Guidance on social responsibility." Disponible en: https://www.iso.org
     
-    • ISO 26000 es una guía internacional para que las empresas implementen prácticas de responsabilidad social en áreas clave.
-    
-    • Carbon Disclosure Project (CDP):
-    
     • CDP. "Carbon Disclosure Project." Disponible en: https://www.cdp.net
-    
-    • CDP permite a las empresas divulgar sus datos climáticos y estrategias para mitigar su impacto ambiental.
-    
-    • Directiva de Informes de Sostenibilidad Corporativa (CSRD) de la Unión Europea:
     
     • Comisión Europea. "Corporate Sustainability Reporting Directive (CSRD)." Disponible en: https://ec.europa.eu
     
-    • La CSRD obliga a las empresas en la UE a reportar sobre sus prácticas ESG, mejorando la transparencia y estandarización de los informes.
-    
-    • Análisis de Materialidad:
-    
     • KPMG. "The Time Has Come: The KPMG Survey of Sustainability Reporting." Disponible en: https://home.kpmg/xx/en/home/insights/2020/11/the-time-has-come-survey-of-sustainability-reporting.html
-    
-    • Este informe proporciona información sobre cómo las empresas globales están abordando el análisis de materialidad en sus reportes de sostenibilidad.
