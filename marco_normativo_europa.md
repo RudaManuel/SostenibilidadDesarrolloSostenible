@@ -1,6 +1,6 @@
-Marco normativo y regulador de la sostenibilidad en Europa
+## **Marco normativo y regulador de la sostenibilidad en Europa**
 
-El marco regulatorio para la sostenibilidad en Europa está muy avanzado a nivel internacional, con una variedad de políticas, directivas y regulaciones destinadas a promover el cambio hacia una economía sostenible con bajas emisiones de carbono.  "Esta estructura abarca varios sectores, como la reducción de emisiones, la conservación biológica, la economía del reciclaje y la financiación ecológica, etc." Los elementos clave de este marco regulatorio se resumen a continuación.
+El marco regulatorio para la sostenibilidad en Europa está muy avanzado a nivel internacional, con una variedad de políticas, directivas y regulaciones destinadas a promover el cambio hacia una economía sostenible con bajas emisiones de carbono. Esta estructura abarca varios sectores, como la reducción de emisiones, la conservación biológica, la economía del reciclaje y la financiación ecológica, etc. Los elementos clave de este marco regulatorio se resumen a continuación.
 
 1. Pacto Verde Europeo.
 
@@ -29,9 +29,6 @@ Desarrolla un marco coherente para categorizar los esfuerzos económicos como am
 Describe puntos de referencia exhaustivos para seis objetivos ecológicos, como reducir las emisiones de gases de efecto invernadero, adaptarse a los cambios climáticos, promover el reciclaje y la reutilización, frenar la contaminación, conservar la vida silvestre y supervisar los recursos acuáticos y marinos.
 
 Facilita a los inversores y las empresas identificar acciones en línea con objetivos ecológicos y cumple una función fundamental a la hora de dirigir la financiación a iniciativas ecológicas.
-
-
-
 
 5. Sistema de Comercio de Emisiones de la Unión Europea (EU ETS).
 
@@ -77,9 +74,3 @@ Sus objetivos incluyen una disminución de la contaminación vehicular en un 90%
 Para concentrar el dinero en proyectos que ayudan al medio ambiente, la UE estableció reglas sobre cómo se debe utilizar el dinero para proyectos ecológicos, estableció criterios para lo que se considera ecológico y creó recompensas y directrices para invertir en estos proyectos.
 
 Esta táctica motiva aún más a los bancos y establecimientos financieros a evaluar y supervisar los peligros relacionados con el clima dentro de sus colecciones de inversiones.
-
-Conclusión.
-
-La estrategia y la estructura de gobernanza para la sostenibilidad en Europa son integrales y ambiciosas, y se basan en el axioma de que la sostenibilidad y la competitividad económica son sinérgicas. 
-El Pacto Verde de la UE planea cambiar la forma en que se hacen las cosas y cómo actúa la gente para abordar los problemas climáticos y naturales. 
-Las normas europeas son además un modelo mundial, ya que establecen elevados puntos de referencia que a menudo sirven como modelo para la adopción internacional.
