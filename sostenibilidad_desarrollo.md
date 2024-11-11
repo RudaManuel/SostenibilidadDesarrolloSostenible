@@ -1,6 +1,6 @@
-# **¿Qué es la sostenibilidad?**
+# 🌱 **¿Qué es la sostenibilidad?**
 
-La 🌱 sostenibilidad es como una guía para cambiar la forma de gestionar lo social, lo económico y lo ambiental, ya que si continuamos asi, vamos a agotar los recursos de nuestro planeta.
+La sostenibilidad es como una guía para cambiar la forma de gestionar lo social, lo económico y lo ambiental, ya que si continuamos asi, vamos a agotar los recursos de nuestro planeta.
 Con la sostenibilidad intentamos vivir al ritmo que nos dice la Tierra para poder producir, adquirir, usar, consumir y tirar sin que la dañemos.
 
 El término de _desarrollo sostenible_ hace su primera aparición en un documento firmado por **33** países africanos en 1969. En ese mismo año en América nace la Agencia de Protección Ambientales, cuyas directrices han influido enormemente en el desarrollo de teorías y prácticas de las políticas ambientales mundiales. El _**National Environmental Policy Act**_ de 1969 ya se definió el 🌍 desarrollo sostenible. Pero hasta 1983 en la Comisión de Brundtland no se crea el concepto final de desarrollo sostenible.
@@ -30,8 +30,7 @@ Existen varios factores que influyen en la sostenibilidad económica:
 La Sostenibilidad Social, busca fortalecer la cohesión y estabilidad de las poblaciones y su desarrollo vital. Es esencial para mejorar la inclusión y las oportunidades de las cominuidades desprotegidas. Todos debemos de tenerlo presente.
 Buscamos el bienestar social y precisamente las empresas tienen un papel fundamental en ello. La forma de relacionarse con las comuidades donde operan es esencial para consrguirlo y hacer que la comunidad se desarrolle.
 
-Cuanto más ![JobIAmJobGIF](https://github.com/user-attachments/assets/31b3e486-3c09-41f1-97c6-88df32851201)
-empresas se comprometan con esta sostenibilidad, mayor será su rentabilidad y además será menos arriesgada para sus trabajadores. Con esto, la ONU intenta priorizar:
+Cuanto más 📊 empresas se comprometan con esta sostenibilidad, mayor será su rentabilidad y además será menos arriesgada para sus trabajadores. Con esto, la ONU intenta priorizar:
 
 1. Erradicación de la pobreza.
 2. Trabajo digno.
