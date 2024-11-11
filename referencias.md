@@ -24,7 +24,7 @@ Marco normativo y regulador de la sostenibilidad en Europa:
 
 - ChatGPT
 
-    1. Green Deal Europeo (Pacto Verde Europeo):
+Green Deal Europeo (Pacto Verde Europeo):
         ◦ Comisión Europea. "A European Green Deal." Disponible en: https://commission.europa.eu/law_es
         
     2. Ley Europea del Clima:
@@ -58,7 +58,7 @@ Evaluación del desempeño en sostenibilidad de las empresas:
 
 - ChatGPT
 
- [Global Reporting Initiative (GRI):
+Global Reporting Initiative (GRI):
  
     1. Global Reporting Initiative (GRI). "Standards." Disponible en: https://www.globalreporting.org
     
