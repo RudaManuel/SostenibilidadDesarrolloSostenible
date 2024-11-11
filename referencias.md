@@ -1,3 +1,10 @@
+Referencias Sostenilidad
+- https://www.bbva.com/es/sostenibilidad/que-es-la-sostenibilidad-un-camino-urgente-y-sin-marcha-atras/
+- https://www.sostenibilidad.com/desarrollo-sostenible/sabes-cuando-nace-la-sostenibilidad/#:~:text=en%201987%20aparece%20por%20primera%20vez%20en%20el%20famoso%20Informe%20Brundtland
+- https://universidadeuropea.com/blog/que-es-sostenibilidad-ambiental/
+- https://www.bbva.com/es/sostenibilidad/que-es-la-sostenibilidad-social-la-importancia-de-que-existan-oportunidades-para-todos/
+- https://www.bbva.com/es/sostenibilidad/que-es-la-sostenibilidad-economica-y-cuales-son-sus-implicaciones/
+
 Referencias agenda 2030 y ODS
 -https://www.undp.org/sustainable-development-goals
 -https://www.mdsocialesa2030.gob.es/agenda2030/conoce_la_agenda.htm
