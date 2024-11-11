@@ -1,11 +1,11 @@
-# 🌱 **¿Qué es la sostenibilidad?**
+## 🌱 **¿Qué es la sostenibilidad?**
 
 La sostenibilidad es como una guía para cambiar la forma de gestionar lo social, lo económico y lo ambiental, ya que si continuamos asi, vamos a agotar los recursos de nuestro planeta.
 Con la sostenibilidad intentamos vivir al ritmo que nos dice la Tierra para poder producir, adquirir, usar, consumir y tirar sin que la dañemos.
 
 El término de _desarrollo sostenible_ hace su primera aparición en un documento firmado por **33** países africanos en 1969. En ese mismo año en América nace la Agencia de Protección Ambientales, cuyas directrices han influido enormemente en el desarrollo de teorías y prácticas de las políticas ambientales mundiales. El _**National Environmental Policy Act**_ de 1969 ya se definió el 🌍 desarrollo sostenible. Pero hasta 1983 en la Comisión de Brundtland no se crea el concepto final de desarrollo sostenible.
 
-## 🌱 **¿Cuáles son los tipos de sostenibilidad?**
+### 🌱 **¿Cuáles son los tipos de sostenibilidad?**
 
 Actualmente tenemos tres tipos de sostenibilidad, cada uno sobre un tema en particular y gestionandolo de manera independiente pero con la misma vision a futuro.
 
