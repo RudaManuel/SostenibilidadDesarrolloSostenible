@@ -12,7 +12,9 @@ Actualmente tenemos tres tipos de sostenibilidad, cada uno sobre un tema en part
 _**1. Sostenibilidad Ambiental**_ https://universidadeuropea.com/blog/que-es-sostenibilidad-ambiental/
 
 Gestiona de manera eficiente los recursos naturales en la actividad productiva, permitiendo su preservación para las necesidades futuras. 
-Se hizo referencia a este concepto en 1987 en la Comisión Mundial sobre Medioambiente y Desarrollo de la Organización de las Naciones Unidas. Acciones diarias como un consumo responsable del agua, reciclar y usar energías renovables forman parte de esta gestión.
+Se hizo referencia a este concepto en 1987 en la Comisión Mundial sobre Medioambiente y Desarrollo de la Organización de las Naciones Unidas. 
+
+Acciones diarias como un consumo responsable del agua, reciclar y usar energías renovables forman parte de esta gestión.
 
 _**2. Sostenibilidad Económica**_
 
