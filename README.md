@@ -17,7 +17,7 @@ _Un trabajo sobre Sostenibilidad_
 ## 📑 Conclusiones
 [Ver documento](conclusiones.md)
 
-## Mapa conceptual
+## 🗺️ Mapa conceptual
 [Ver documento](mapa_conceptual.md)
 
 ## 📘 Glosario
