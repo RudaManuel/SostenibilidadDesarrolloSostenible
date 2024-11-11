@@ -8,10 +8,12 @@ Con la sostenibilidad intentamos vivir al ritmo que nos dice la Tierra para pode
 Actualmente tenemos tres tipos de sostenibilidad, cada uno sobre un tema en particular y gestionandolo de manera independiente pero con la misma vision a futuro.
 
 _**1. Sostenibilidad Ambiental**_ https://universidadeuropea.com/blog/que-es-sostenibilidad-ambiental/
+
 Gestiona de manera eficiente los recursos naturales en la actividad productiva, permitiendo su preservación para las necesidades futuras. 
 Se hizo referencia a este concepto en 1987 en la Comisión Mundial sobre Medioambiente y Desarrollo de la Organización de las Naciones Unidas. Acciones diarias como un consumo responsable del agua, reciclar y usar energías renovables forman parte de esta gestión.
 
 _**2. Sostenibilidad Económica**_
+
 Define el enfoque según el cual las actividadrs económicas se llevana a cabo de forma que se preserve y promueva el bienestar económico a largo plazo. Se pretende crear un equilibrio entre el crecimiento económico, la eficiencia de recursos, la igualdad y equilibrio social y la estabilidad financiera.
 
 Existen varios factores que influyen en la sostenibilidad económica:
