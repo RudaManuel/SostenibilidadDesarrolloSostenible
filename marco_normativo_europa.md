@@ -22,7 +22,7 @@ La iniciativa tiene como objetivo frenar el "lavado verde" al obligar a los banc
 
 El SFDR clasifica las ofertas financieras en varios niveles según su nivel de sostenibilidad (como aquellas que están sincronizadas con objetivos ecológicos y sociales).
 
-4.Reglamento de Taxonomía de la UE.
+4. Reglamento de Taxonomía de la UE.
 
 Desarrolla un marco coherente para categorizar los esfuerzos económicos como ambientalmente sostenibles.
 
