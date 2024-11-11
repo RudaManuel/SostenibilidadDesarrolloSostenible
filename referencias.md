@@ -1,3 +1,24 @@
+Referencias agenda 2030 y ODS
+-https://www.undp.org/sustainable-development-goals
+-https://www.mdsocialesa2030.gob.es/agenda2030/conoce_la_agenda.htm
+-https://en.wikipedia.org/wiki/Sustainable_Development_Goals
+
+Referencias Sigla ASG
+-https://www.etoro.com/es/investing/esg-investing/
+-https://www.pactomundial.org/noticia/la-sostenibilidad-empresarial-desde-las-siglas-asg-o-esg/
+-https://responsabilidadsocial.net/criterios-asg-y-esg-que-son-significado-indicadores-y-principios/
+
+
+
+
+
+
+
+
+
+
+
+
 Marco normativo y regulador de la sostenibilidad en Europa:
 
     1. Green Deal Europeo (Pacto Verde Europeo):
