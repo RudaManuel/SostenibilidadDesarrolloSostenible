@@ -1,4 +1,4 @@
-## **Marco normativo y regulador de la sostenibilidad en Europa**
+## 🏛️ **Marco Normativo y Regulador de la Sostenibilidad en Europa**
 
 El marco regulatorio para la sostenibilidad en Europa está muy avanzado a nivel internacional, con una variedad de políticas, directivas y regulaciones destinadas a promover el cambio hacia una economía sostenible con bajas emisiones de carbono. Esta estructura abarca varios sectores, como la reducción de emisiones, la conservación biológica, la economía del reciclaje y la financiación ecológica, etc. Los elementos clave de este marco regulatorio se resumen a continuación.
 
