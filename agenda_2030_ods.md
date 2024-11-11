@@ -10,9 +10,9 @@ La Agenda plantea 17 Objetivos con 169 metas de carácter integrado e indivisibl
 
 
 Los 17 ODS incluyen metas específicas como:
-1. Fin de la pobreza.
-2. Hambre cero.
-3. Salud y bienestar.
+  1. Fin de la pobreza.
+  2. Hambre cero.
+  3. Salud y bienestar.
 4. Educación de calidad.
 5. Igualdad de género.
 6. Agua limpia y saneamiento.
