@@ -41,13 +41,10 @@ Huella de Carbono: Medición de emisiones de gases de efecto invernadero (GEI).
 == - Oración reescrita: Utilización de energía sostenible: Proporción de energía total consumida
 Diversidad e inclusión: indicadores de variedad en género, antecedentes y elementos adicionales en la fuerza laboral y el liderazgo.
 Gestión de Residuos: Cantidad de residuos generados y porcentaje reciclado.
-7.Impacto de la Evaluación de la Sostenibilidad en el Valor Corporativo.
+
+7. Impacto de la Evaluación de la Sostenibilidad en el Valor Corporativo.
 
 Los buenos resultados ambientales, sociales y de gobernanza (ESG) mejoran el atractivo de una empresa para los inversores que apuntan a proyectos ecológicos.
 La transparencia y la dedicación al respeto del medio ambiente refuerzan el prestigio de la marca y elevan la confianza del consumidor.
 Mitigación de costos y peligros: las estrategias ecológicas permiten a las organizaciones reducir gastos (como la conservación de energía) y disminuir los peligros (como la dependencia de activos limitados).
 Estándares regulatorios: La tensión regulatoria en materia ambiental y social persiste, especialmente dentro de la Unión Europea, lo que requiere excelentes logros en materia de sostenibilidad para garantizar la conformidad regulatoria.
-
-Conclusión.
-
-La evaluación de la ecoeficiencia se ha vuelto fundamental en el gobierno corporativo, dirigiendo el crecimiento hacia la sostenibilidad.  Además de cumplir con las normas sociales, esta evaluación permite a las empresas identificar oportunidades de mejora y abordar de manera proactiva los problemas ecológicos y comunitarios.
