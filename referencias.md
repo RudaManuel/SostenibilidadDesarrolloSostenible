@@ -24,10 +24,10 @@ Marco normativo y regulador de la sostenibilidad en Europa:
 
 - ChatGPT
 
->    1. Green Deal Europeo (Pacto Verde Europeo):
+    1. Green Deal Europeo (Pacto Verde Europeo):
         ◦ Comisión Europea. "A European Green Deal." Disponible en: https://commission.europa.eu/law_es
         
->    2. Ley Europea del Clima:
+    2. Ley Europea del Clima:
         ◦ Reglamento (UE) 2021/1119 del Parlamento Europeo y del Consejo de 30 de junio de 2021 por el que se establece el marco para lograr la neutralidad climática y se modifica el Reglamento (UE) 2018/1999 (Ley Europea del Clima). Disponible en: https://commission.europa.eu/energy-climate-change-environment_es
         
     3. Reglamento de Divulgación de Finanzas Sostenibles (SFDR):
@@ -58,7 +58,7 @@ Evaluación del desempeño en sostenibilidad de las empresas:
 
 - ChatGPT
 
- Global Reporting Initiative (GRI):
+ [Global Reporting Initiative (GRI):
  
     1. Global Reporting Initiative (GRI). "Standards." Disponible en: https://www.globalreporting.org
     
@@ -86,4 +86,4 @@ Evaluación del desempeño en sostenibilidad de las empresas:
     
     • La CSRD obliga a las empresas en la UE a reportar sobre sus prácticas ESG, mejorando la transparencia y estandarización de los informes.
     
-    • KPMG. "The Time Has Come: The KPMG Survey of Sustainability Reporting." Disponible en: https://home.kpmg/xx/en/home/insights/2020/11/the-time-has-come-survey-of-sustainability-reporting.html
+    • KPMG. "The Time Has Come: The KPMG Survey of Sustainability Reporting." Disponible en: https://home.kpmg/xx/en/home/insights/2020/11/the-time-has-come-survey-of-sustainability-reporting.html]: #
