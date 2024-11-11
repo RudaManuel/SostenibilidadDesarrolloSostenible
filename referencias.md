@@ -20,18 +20,9 @@ Referencias Sigla ASG
 - https://www.pactomundial.org/noticia/la-sostenibilidad-empresarial-desde-las-siglas-asg-o-esg/
 - https://responsabilidadsocial.net/criterios-asg-y-esg-que-son-significado-indicadores-y-principios/
 
-
-
-
-
-
-
-
-
-
-
-
 Marco normativo y regulador de la sostenibilidad en Europa:
+
+- ChatGPT
 
     1. Green Deal Europeo (Pacto Verde Europeo):
         ◦ Comisión Europea. "A European Green Deal." Disponible en: https://commission.europa.eu/law_es
@@ -65,9 +56,11 @@ Marco normativo y regulador de la sostenibilidad en Europa:
     
 Evaluación del desempeño en sostenibilidad de las empresas:
 
+- ChatGPT
+
  Global Reporting Initiative (GRI):
  
-    • Global Reporting Initiative (GRI). "Standards." Disponible en: https://www.globalreporting.org
+    1. Global Reporting Initiative (GRI). "Standards." Disponible en: https://www.globalreporting.org
     
     • Sustainability Accounting Standards Board. "Standards Overview." Disponible en: https://www.sasb.org
     
