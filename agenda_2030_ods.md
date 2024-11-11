@@ -28,4 +28,4 @@ Los _**17 ODS**_ incluyen metas específicas como:
 16. Paz, justicia e instituciones sólidas.
 17. Alianzas para lograr los objetivos.
 
-La Agenda 2030 no solo se centra en el crecimiento económico, sino que también busca un **enfoque equilibrado** que integre la sostenibilidad ambiental y el bienestar social. Sin embargo, el progreso hacia estos objetivos ha sido desigual y se enfrenta a diversos desafíos, como el impacto de la pandemia de COVID-19, el cambio climático y la creciente desigualdad global.
+La Agenda 2030 no solo se centra en el crecimiento económico, sino que también busca un **enfoque equilibrado** que integre la sostenibilidad ambiental y el bienestar social. Sin embargo, el progreso hacia estos objetivos ha sido desigual y se enfrenta a diversos desafíos, como el impacto de la pandemia de 🦠 COVID-19, el cambio climático y la creciente desigualdad global.
