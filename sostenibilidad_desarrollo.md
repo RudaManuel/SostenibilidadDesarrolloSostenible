@@ -18,7 +18,7 @@ Acciones diarias como un consumo responsable del agua, reciclar y usar energías
 
 💵 _**2. Sostenibilidad Económica**_
 
-Define el enfoque según el cual las actividadrs económicas se llevana a cabo de forma que se preserve y promueva el bienestar económico a largo plazo. Se pretende crear un equilibrio entre el crecimiento económico, la eficiencia de recursos, la igualdad y equilibrio social y la estabilidad financiera.
+Define el enfoque según el cual las actividades económicas se llevana a cabo de forma que se preserve y promueva el bienestar económico a largo plazo. Se pretende crear un equilibrio entre el crecimiento económico, la eficiencia de recursos, la igualdad y equilibrio social y la estabilidad financiera.
 
 Existen varios factores que influyen en la sostenibilidad económica:
 - Gestión responsables de recursos.
