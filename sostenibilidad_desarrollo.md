@@ -1,5 +1,5 @@
 # **¿Qué es la sostenibilidad?**
-https://www.bbva.com/es/sostenibilidad/que-es-la-sostenibilidad-un-camino-urgente-y-sin-marcha-atras/
+
 La sostenibilidad es como una guía para cambiar la forma de gestionar lo social, lo económico y lo ambiental, ya que si continuamos asi, vamos a agotar los recursos de nuestro planeta.
 Con la sostenibilidad intentamos vivir al ritmo que nos dice la Tierra para poder producir, adquirir, usar, consumir y tirar sin que la dañemos.
 
@@ -9,7 +9,7 @@ El término de _desarrollo sostenible_ hace su primera aparición en un document
 
 Actualmente tenemos tres tipos de sostenibilidad, cada uno sobre un tema en particular y gestionandolo de manera independiente pero con la misma vision a futuro.
 
-_**1. Sostenibilidad Ambiental**_ https://universidadeuropea.com/blog/que-es-sostenibilidad-ambiental/
+_**1. Sostenibilidad Ambiental**_ 
 
 Gestiona de manera eficiente los recursos naturales en la actividad productiva, permitiendo su preservación para las necesidades futuras. 
 Se hizo referencia a este concepto en 1987 en la Comisión Mundial sobre Medioambiente y Desarrollo de la Organización de las Naciones Unidas. 
@@ -25,7 +25,7 @@ Existen varios factores que influyen en la sostenibilidad económica:
 - Capacidad de eficiencia e innovación de los sistemas económicos y las empresas.
 - Estabilidad financiera 
 
-_**3. Sostenibilidad Social**_ https://www.bbva.com/es/sostenibilidad/que-es-la-sostenibilidad-social-la-importancia-de-que-existan-oportunidades-para-todos/
+_**3. Sostenibilidad Social**_ 
 
 La Sostenibilidad Social, busca fortalecer la cohesión y estabilidad de las poblaciones y su desarrollo vital. Es esencial para mejorar la inclusión y las oportunidades de las cominuidades desprotegidas. Todos debemos de tenerlo presente.
 Buscamos el bienestar social y precisamente las empresas tienen un papel fundamental en ello. La forma de relacionarse con las comuidades donde operan es esencial para consrguirlo y hacer que la comunidad se desarrolle.
