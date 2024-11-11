@@ -21,4 +21,18 @@ Existen varios factores que influyen en la sostenibilidad económica:
 - Capacidad de eficiencia e innovación de los sistemas económicos y las empresas.
 - Estabilidad financiera 
 
-_**3. Sostenibilidad Social**_
+_**3. Sostenibilidad Social**_ https://www.bbva.com/es/sostenibilidad/que-es-la-sostenibilidad-social-la-importancia-de-que-existan-oportunidades-para-todos/
+
+La Sostenibilidad Social, busca fortalecer la cohesión y estabilidad de las poblaciones y su desarrollo vital. Es esencial para mejorar la inclusión y las oportunidades de las cominuidades desprotegidas. Todos debemos de tenerlo presente.
+Buscamos el bienestar social y precisamente las empresas tienen un papel fundamental en ello. La forma de relacionarse con las comuidades donde operan es esencial para consrguirlo y hacer que la comunidad se desarrolle.
+
+Cuanto más empresas se comprometan con esta sostenibilidad, mayor será su rentabilidad y además será menos arriesgada para sus trabajadores. Con esto, la ONU intenta priorizar:
+
+1. Erradicación de la pobreza.
+2. Trabajo digno.
+3. Igualdad de género.
+4. Inclusión social para personas con capacidades diversas.
+5. Atención sanitaria universal.
+6. Acceso al agua potable y al saneamiento integral.
+7. Acceso a la educación y formación.
+8. Respeto a los derechos de los pueblos indígenas.
