@@ -1,7 +1,7 @@
 ## 🏭 **Evaluación del Desempeño en Sostenibilidad de las Empresas**
 
 **Objetivos**: Verificar si las empresas son buenas para vivir de manera más ecológica nos ayuda a ver si les está yendo bien con sus objetivos y en qué medida ayudan con los objetivos mundiales. 
-Esta evaluación se lleva a cabo mediante el examen de elementos ecológicos, sociales y de gobernanza (ESG), que sirven como punto de referencia para las decisiones de financistas, inversores y formuladores de políticas. Evaluación de impacto ambiental: Se trata de medir el impacto ambiental de la empresa.
+Esta evaluación se lleva a cabo mediante el examen de elementos ecológicos, sociales y de gobernanza (ASG), que sirven como punto de referencia para las decisiones de financistas, inversores y formuladores de políticas. Evaluación de impacto ambiental: Se trata de medir el impacto ambiental de la empresa.
 
 1. **🌐 Criterios ASG (Ambientales, Sociales y de Gobernanza)**
 
@@ -26,9 +26,9 @@ Los ODS establecen metas para grandes temas como el cambio climático, la pobrez
 
 Las organizaciones y entidades emplean marcos de evaluación y sistemas de 🥈 puntuación que facilitan la excelencia sostenida de las empresas a evaluar. Entre los sistemas más reconocidos se encuentran:
 
-- Índices ecológicos: los ejemplos incluyen el índice de sostenibilidad Dow Jones (DJSI) y el índice FTSE4Good, que clasifican a las entidades según su eficacia ESG.
+- Índices ecológicos: los ejemplos incluyen el índice de sostenibilidad Dow Jones (DJSI) y el índice FTSE4Good, que clasifican a las entidades según su eficacia ASG.
 
-- Evaluaciones ESG (ambientales, sociales y de gobernanza): entidades como MSCI, Sustainalytics y Refinitiv realizan evaluaciones ESG que miden y yuxtaponen la eficacia ecológica de las corporaciones.
+- Evaluaciones ASG (ambientales, sociales y de gobernanza): entidades como MSCI, Sustainalytics y Refinitiv realizan evaluaciones ESG que miden y yuxtaponen la eficacia ecológica de las corporaciones.
 
 - EcoVadis: un aparato de evaluación que asigna puntuaciones de sostenibilidad a empresas de diversos sectores, examinando dimensiones como el pie de página ecológico.
 
@@ -36,7 +36,7 @@ Las organizaciones y entidades emplean marcos de evaluación y sistemas de 🥈 
 
 Las empresas formulan expedientes de sostenibilidad para informar a sus partes interesadas (accionistas, consumidores, personal, comunidades, etc.) sobre esto es parte de un desempeño ESG.
 También utilizan ISO 26000 para responsabilidad social y CDP para mostrar su impacto y planes de carbono.
-Reglamento de informes de sostenibilidad corporativa (CSRD) de la UE: en Europa, este mandato obliga a las empresas grandes y medianas a revelar su desempeño en materia de sostenibilidad, mejorando la transparencia y armonizando los datos ESG.
+Reglamento de informes de sostenibilidad corporativa (CSRD) de la UE: en Europa, este mandato obliga a las empresas grandes y medianas a revelar su desempeño en materia de sostenibilidad, mejorando la transparencia y armonizando los datos ASG.
 
 5. **📊 Análisis de Materialidad**
 
@@ -53,7 +53,7 @@ _**Utilización de energía sostenible**_: Proporción de energía total consumi
 
 _**Gestión de Residuos**_: Cantidad de residuos generados y porcentaje reciclado.
 
-_Diversidad e inclusión_: indicadores de variedad en género, antecedentes y elementos adicionales en la fuerza laboral y el liderazgo. Los riesgos al no haber diversidad e igualdad pueden ser:
+_**Diversidad e inclusión**_: indicadores de variedad en género, antecedentes y elementos adicionales en la fuerza laboral y el liderazgo. Los riesgos al no haber diversidad e igualdad pueden ser:
 - Riesgos de productividad y eficiencia( Desaprovechamiento de talento,Desmotivación y baja satisfacción laboral,etc )
 - Riesgos económicos y financieros( Costos de rotación y reemplazo,Menor rendimiento financiero,etc )
 - Riesgos de reputación y marca( Percepción negativa,Pérdida de confianza en la sociedad,etc )
