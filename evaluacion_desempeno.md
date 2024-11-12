@@ -47,11 +47,11 @@ Esto garantiza que los informes de sostenibilidad destaquen los aspectos importa
 
 Qué incluyen algunos ejemplos comunes:
 
-_Huella de Carbono_: Medición de emisiones de gases de efecto invernadero (GEI).
+_**Huella de Carbono**_: Medición de emisiones de gases de efecto invernadero (GEI). Los altos niveles de **CO2** son un indicador clave dentro de las métricas de sostenibilidad.
 
-_Utilización de energía sostenible_: Proporción de energía total consumida.
+_**Utilización de energía sostenible**_: Proporción de energía total consumida.
 
-_Gestión de Residuos_: Cantidad de residuos generados y porcentaje reciclado.
+_**Gestión de Residuos**_: Cantidad de residuos generados y porcentaje reciclado.
 
 _Diversidad e inclusión_: indicadores de variedad en género, antecedentes y elementos adicionales en la fuerza laboral y el liderazgo. Los riesgos al no haber diversidad e igualdad pueden ser:
 - Riesgos de productividad y eficiencia( Desaprovechamiento de talento,Desmotivación y baja satisfacción laboral,etc )
@@ -64,7 +64,7 @@ _Diversidad e inclusión_: indicadores de variedad en género, antecedentes y el
 
 7. **Impacto de la Evaluación de la Sostenibilidad en el Valor Corporativo**
 
-Los buenos resultados ambientales, sociales y de gobernanza (ESG) mejoran el atractivo de una empresa para los inversores que apuntan a proyectos ecológicos.
+Los buenos resultados **ambientales**, **sociales** y de **gobernanza** (ASG) mejoran el atractivo de una empresa para los inversores que apuntan a proyectos ecológicos.
 La transparencia y la dedicación al respeto del medio ambiente refuerzan el prestigio de la marca y elevan la confianza del consumidor.
 Mitigación de costos y peligros: las estrategias ecológicas permiten a las organizaciones reducir gastos (como la conservación de energía) y disminuir los peligros (como la dependencia de activos limitados).
 Estándares regulatorios: La tensión regulatoria en materia ambiental y social persiste, especialmente dentro de la Unión Europea, lo que requiere excelentes logros en materia de sostenibilidad para garantizar la conformidad regulatoria.
