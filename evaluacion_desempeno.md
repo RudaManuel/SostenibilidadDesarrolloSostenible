@@ -48,10 +48,12 @@ Esto garantiza que los informes de sostenibilidad destaquen los aspectos importa
 Qué incluyen algunos ejemplos comunes:
 
 _Huella de Carbono_: Medición de emisiones de gases de efecto invernadero (GEI).
-Utilización de energía sostenible: Proporción de energía total consumida
-Gestión de Residuos: Cantidad de residuos generados y porcentaje reciclado.
 
-Diversidad e inclusión: indicadores de variedad en género, antecedentes y elementos adicionales en la fuerza laboral y el liderazgo. Los riesgos al no haber diversidad e igualdad pueden ser:
+_Utilización de energía sostenible_: Proporción de energía total consumida.
+
+_Gestión de Residuos_: Cantidad de residuos generados y porcentaje reciclado.
+
+_Diversidad e inclusión_: indicadores de variedad en género, antecedentes y elementos adicionales en la fuerza laboral y el liderazgo. Los riesgos al no haber diversidad e igualdad pueden ser:
 - Riesgos de productividad y eficiencia( Desaprovechamiento de talento,Desmotivación y baja satisfacción laboral,etc )
 - Riesgos económicos y financieros( Costos de rotación y reemplazo,Menor rendimiento financiero,etc )
 - Riesgos de reputación y marca( Percepción negativa,Pérdida de confianza en la sociedad,etc )
