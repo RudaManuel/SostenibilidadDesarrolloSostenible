@@ -1,13 +1,13 @@
 ## 🏭 **Evaluación del Desempeño en Sostenibilidad de las Empresas.**
 
-Objetivos: Verificar si las empresas son buenas para vivir de manera más ecológica nos ayuda a ver si les está yendo bien con sus objetivos y en qué medida ayudan con los objetivos mundiales. 
+**Objetivos**: Verificar si las empresas son buenas para vivir de manera más ecológica nos ayuda a ver si les está yendo bien con sus objetivos y en qué medida ayudan con los objetivos mundiales. 
 Esta evaluación se lleva a cabo mediante el examen de elementos ecológicos, sociales y de gobernanza (ESG), que sirven como punto de referencia para las decisiones de financistas, inversores y formuladores de políticas. Evaluación de impacto ambiental: Se trata de medir el impacto ambiental de la empresa.
 
 1. **Criterios ESG (Ambientales, Sociales y de Gobernanza)**.
 
 Ambientales: Abarcan elementos como las descargas de gases de efecto invernadero, los residuos, la utilización óptima de los activos y la influencia en la variedad biológica. Las organizaciones evalúan su huella de carbono, su uso de energía y sus líquidos y desechos, examinando su influencia en el calentamiento global y las biosferas.
 
-Social: abarcan facetas como protocolos de trabajo, paridad de género, bienestar y protección de los empleados, conducta moral dentro de la red de proveedores y cuenta social empresarial. En esta oración reescrita, "Social" se reemplaza por "Social", "incluir" por "abarcar". ', 'aspectos' con 'facetas', 'prácticas laborales La asociación con las comunidades y la reverencia por los derechos humanos también se consideran esenciales.
+Social: abarcan facetas como protocolos de trabajo, paridad de género, bienestar y protección de los empleados, conducta moral dentro de la red de proveedores y cuenta social empresarial. En esta oración reescrita. Incluir por abarcar, aspectos con facetas, prácticas laborales. La asociación con las comunidades y la reverencia por los derechos humanos también se consideran esenciales.
 
 Gobernanza: se concentra en el marco administrativo, la conducta moral, la apertura, la responsabilidad y la disuasión de malas prácticas. Elementos adicionales implican la heterogeneidad en los titulares de los mandos, la gobernanza de los comités autónomos y el cumplimiento de las normas legales.
 
@@ -47,7 +47,7 @@ Esto garantiza que los informes de sostenibilidad destaquen los aspectos importa
 
 Qué incluyen algunos ejemplos comunes:
 
-Huella de Carbono: Medición de emisiones de gases de efecto invernadero (GEI).
+_Huella de Carbono_: Medición de emisiones de gases de efecto invernadero (GEI).
 Utilización de energía sostenible: Proporción de energía total consumida
 Gestión de Residuos: Cantidad de residuos generados y porcentaje reciclado.
 
