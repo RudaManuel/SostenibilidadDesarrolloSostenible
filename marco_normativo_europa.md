@@ -4,7 +4,7 @@ El marco regulatorio para la sostenibilidad en Europa está muy avanzado a nivel
 Esta estructura abarca varios sectores, como la reducción de emisiones, la conservación biológica, la economía del reciclaje y la financiación ecológica, etc. 
 Los elementos clave de este marco regulatorio son:
 
-- _Pacto Verde Europeo_
+- 🫑 _Pacto Verde Europeo_
 
 La estrategia principal de la Unión Europea dirige su economía para convertirla en un mercado competitivo y conocedor de recursos. 
 Su objetivo es establecer a Europa como el primer continente neutral en carbono para el año 2050.
@@ -68,7 +68,7 @@ El documento impulsa iniciativas para reformar la infraestructura de transporte 
 
 Sus objetivos incluyen una disminución de la contaminación de vehívulos en un 90% para 2050 y la adopción de automóviles, ferrocarriles y transporte público ecológicos.
 
-- _Estrategia de Financiamiento Sostenible_.
+- _Estrategia de Financiamiento Sostenible_
 
 Para concentrar el dinero en proyectos que ayudan al medio ambiente, la UE estableció reglas sobre cómo se debe utilizar el dinero para proyectos ecológicos, estableció criterios para lo que se considera ecológico y creó recompensas y directrices para invertir en estos proyectos.
 
