@@ -6,7 +6,7 @@ La Agenda plantea 17 Objetivos con 169 metas que abarcan los apartados 💵 econ
 
 La Agenda 2030 para el Desarrollo Sostenible, es un plan de acción a favor de las personas, el planeta y la prosperidad, que también tiene la intención de fortalecer la paz universal y el acceso a la justicia.
 193 Estados miembros de las Naciones Unidas aprobaron una resolución en la que reconocen que el mayor desafío del mundo actual es la erradicación de la pobreza y afirman que sin lograrla no puede haber desarrollo sostenible.
-La Agenda plantea 17 Objetivos con **169 metas** de carácter integrado e indivisible que abarcan las esferas 💵 económica, 👨‍👩‍👧‍👦 social y 🌻 ambiental se coordinan en el _**Consejo Económico y Social (ECOSOC)**_. Al adoptarla, los Estados se comprometieron a movilizar los medios necesarios para su implementación mediante alianzas centradas especialmente en las necesidades de los más pobres y vulnerables.
+La Agenda plantea 17 Objetivos con **169 metas** de carácter integrado e indivisible que abarcan las esferas 💵 económica, 👨‍👩‍👧‍👦 social y 🌻 ambiental que se coordinan en el _**Consejo Económico y Social (ECOSOC)**_. Al adoptarla, los Estados se comprometieron a movilizar los medios necesarios para su implementación mediante alianzas centradas especialmente en las necesidades de los más pobres y vulnerables.
 
 Los _**17 ODS**_ incluyen metas específicas como:
 
