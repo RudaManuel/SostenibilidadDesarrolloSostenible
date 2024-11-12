@@ -20,25 +20,25 @@ _Referencias Sigla ASG_
 - https://www.pactomundial.org/noticia/la-sostenibilidad-empresarial-desde-las-siglas-asg-o-esg/
 - https://responsabilidadsocial.net/criterios-asg-y-esg-que-son-significado-indicadores-y-principios/
 
-Marco normativo y regulador de la sostenibilidad en Europa:
+_Marco normativo y regulador de la sostenibilidad en Europa_
 
 - ChatGPT
--https://commission.europa.eu/energy-climate-change-environment_es
--https://commission.europa.eu/funding-tenders_es
+- https://commission.europa.eu/energy-climate-change-environment_es
+- https://commission.europa.eu/funding-tenders_es
 - https://commission.europa.eu/law_es
--https://commission.europa.eu/eu-regional-and-urban-development_es
--https://commission.europa.eu/eu-regional-and-urban-development_es
--https://commission.europa.eu/statistics_es
--https://commission.europa.eu/research-and-innovation_es
--https://commission.europa.eu/research-and-innovation_es
--https://commission.europa.eu/funding-tenders_es
+- https://commission.europa.eu/eu-regional-and-urban-development_es
+- https://commission.europa.eu/eu-regional-and-urban-development_es
+- https://commission.europa.eu/statistics_es
+- https://commission.europa.eu/research-and-innovation_es
+- https://commission.europa.eu/research-and-innovation_es
+- https://commission.europa.eu/funding-tenders_es
     
-Evaluación del desempeño en sostenibilidad de las empresas:
+_Evaluación del desempeño en sostenibilidad de las empresas_
 
 - ChatGPT
--https://www.globalreporting.org
--https://www.sasb.org
--https://www.fsb-tcfd.org
--https://www.spglobal.com/esg/csa/indices/djsi-index-family/
--  https://www.cdp.net
--  https://www.iso.org
+- https://www.globalreporting.org
+- https://www.sasb.org
+- https://www.fsb-tcfd.org
+- https://www.spglobal.com/esg/csa/indices/djsi-index-family/
+- https://www.cdp.net
+- https://www.iso.org
