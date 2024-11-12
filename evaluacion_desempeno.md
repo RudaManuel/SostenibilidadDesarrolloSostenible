@@ -5,11 +5,11 @@ Esta evaluación se lleva a cabo mediante el examen de elementos ecológicos, so
 
 1. **Criterios ESG (Ambientales, Sociales y de Gobernanza)**
 
-Ambientales: Abarcan elementos como las descargas de gases de efecto invernadero, los residuos, la utilización óptima de los activos y la influencia en la variedad biológica. Las organizaciones evalúan su huella de carbono, su uso de energía y sus líquidos y desechos, examinando su influencia en el calentamiento global y las biosferas.
+_**Ambientales**_: Abarcan elementos como las descargas de gases de efecto invernadero, los residuos, la utilización óptima de los activos y la influencia en la variedad biológica. Las organizaciones evalúan su huella de carbono, su uso de energía y sus líquidos y desechos, examinando su influencia en el calentamiento global y las biosferas.
 
-Social: abarcan facetas como protocolos de trabajo, paridad de género, bienestar y protección de los empleados, conducta moral dentro de la red de proveedores y cuenta social empresarial. En esta oración reescrita. Incluir por abarcar, aspectos con facetas, prácticas laborales. La asociación con las comunidades y la reverencia por los derechos humanos también se consideran esenciales.
+_**Social**_: abarcan facetas como protocolos de trabajo, paridad de género, bienestar y protección de los empleados, conducta moral dentro de la red de proveedores y cuenta social empresarial. En esta oración reescrita. Incluir por abarcar, aspectos con facetas, prácticas laborales. La asociación con las comunidades y la reverencia por los derechos humanos también se consideran esenciales.
 
-Gobernanza: se concentra en el marco administrativo, la conducta moral, la apertura, la responsabilidad y la disuasión de malas prácticas. Elementos adicionales implican la heterogeneidad en los titulares de los mandos, la gobernanza de los comités autónomos y el cumplimiento de las normas legales.
+_**Gobernanza**_: se concentra en el marco administrativo, la conducta moral, la apertura, la responsabilidad y la disuasión de malas prácticas. Elementos adicionales implican la heterogeneidad en los titulares de los mandos, la gobernanza de los comités autónomos y el cumplimiento de las normas legales.
 
 2. **Indicadores y Estándares de Evaluación**
 
