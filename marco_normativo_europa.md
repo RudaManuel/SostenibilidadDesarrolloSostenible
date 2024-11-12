@@ -25,7 +25,7 @@ La iniciativa tiene como objetivo frenar el "lavado verde" al obligar a los banc
 
 El SFDR clasifica las ofertas financieras en varios niveles según su nivel de sostenibilidad (como aquellas que están sincronizadas con objetivos ecológicos y sociales).
 
-- _Reglamento de Taxonomía de la UE_
+- 📘 _Reglamento de Taxonomía de la UE_
 
 Desarrolla un marco coherente para categorizar los esfuerzos económicos como ambientalmente sostenibles.
 
@@ -33,14 +33,14 @@ Describe puntos de referencia exhaustivos para seis objetivos ecológicos, como 
 
 Facilita a los inversores y las empresas identificar acciones en línea con objetivos ecológicos y cumple una función fundamental a la hora de dirigir la financiación a iniciativas ecológicas.
 
-- _Sistema de Comercio de Emisiones de la Unión Europea (EU ETS)_
+- 🛵 _Sistema de Comercio de Emisiones de la Unión Europea (EU ETS)_
 
 El Régimen de Comercio de Emisiones de la Unión Europea (EU ETS) representa el mecanismo de comercio de emisiones más amplio del mundo y abarca sectores como la energía y la aviación.
 Esta política establece un límite de emisiones para sectores específicos y permite el comercio, impulsando a las empresas a reducir sus producciones de gases de efecto invernadero. 
 
 Parte del objetivo es aumentar el costo de la emisión de gases de efecto invernadero, fomentando así el gasto en innovaciones ecológicas.
 
-- _Estrategia de Economía Circular_
+- 🔄 _Estrategia de Economía Circular_
 
 En 2020, la Unión Europea dio a conocer una novedosa Estrategia para la Economía Circular, que incorpora iniciativas para toda la secuencia de fabricación y consumo.
 
@@ -56,19 +56,19 @@ Mejora una mayor transparencia en las divulgaciones, abarcando detalles sobre la
 
 Este comando se aplicará a corporaciones grandes y de tamaño moderado, lo que aumentará la claridad de las empresas europeas respecto a las preocupaciones medioambientales.
 
-- _Estrategia de Biodiversidad para 2030_
+- 🔄 _Estrategia de Biodiversidad para 2030_
 
 Promete proteger al menos el 30% de la superficie terrestre y marina de Europa.
 
 También aborda cuestiones como las prácticas agrícolas sostenibles y la aplicación de pesticidas botánicos para disminuir el efecto en los ecosistemas naturales.
 
-- _Estrategia de Movilidad Sostenible e Inteligente_
+- 🔄 _Estrategia de Movilidad Sostenible e Inteligente_
 
 El documento impulsa iniciativas para reformar la infraestructura de transporte europea en un marco que sea más ecológico y menos dependiente de fuentes de energía no renovables.
 
 Sus objetivos incluyen una disminución de la contaminación de vehívulos en un 90% para 2050 y la adopción de automóviles, ferrocarriles y transporte público ecológicos.
 
-- _Estrategia de Financiamiento Sostenible_
+- 🤑 _Estrategia de Financiamiento Sostenible_
 
 Para concentrar el dinero en proyectos que ayudan al medio ambiente, la UE estableció reglas sobre cómo se debe utilizar el dinero para proyectos ecológicos, estableció criterios para lo que se considera ecológico y creó recompensas y directrices para invertir en estos proyectos.
 
