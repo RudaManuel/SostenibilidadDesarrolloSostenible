@@ -1,9 +1,9 @@
 # 🌍 **Sostenibilidad y Desarrollo Sostenible**
-
 _Un trabajo sobre Sostenibilidad_
 
----
+
 ![acciones-empresas-sostenibilidad](https://github.com/user-attachments/assets/f5d6b826-f1bb-4d2e-b3dd-ec4a1369fce0)
+
 ---
 
 ## 📑 Índice
