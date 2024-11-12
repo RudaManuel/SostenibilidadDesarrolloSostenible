@@ -4,7 +4,20 @@ El marco regulatorio para la sostenibilidad en Europa está muy avanzado a nivel
 Esta estructura abarca varios sectores, como la reducción de emisiones, la conservación biológica, la economía del reciclaje y la financiación ecológica, etc. 
 Los elementos clave de este marco regulatorio son:
 
+
 Pacto Verde Europeo:
+
+Antes de nada tenemos que saber que la Agenda 2030 es un plan mundial elaborado por los países de la ONU en 2015 para ayudar a avanzar en el desarrollo, asegurándose de que sea justo para todos.  El plan introduce 17 Objetivos de Desarrollo Sostenible (ODS) y 169 metas particulares para combatir problemas como la pobreza, el hambre, la disparidad, la alteración ambiental, la iluminación, la tranquilidad y la rectitud.
+Esta formada por:
+-17 Objetivos de Desarrollo Sostenible (ODS)
+-169 metas
+-Indicadores
+-Principios rectores
+-Compromisos de los Estados miembros
+
+Los elementos clave de este marco regulatorio son:
+
+- _Pacto Verde Europeo_.
 
 La estrategia principal de la Unión Europea dirige su economía para convertirla en un mercado competitivo y conocedor de recursos. 
 Su objetivo es establecer a Europa como el primer continente neutral en carbono para el año 2050.
