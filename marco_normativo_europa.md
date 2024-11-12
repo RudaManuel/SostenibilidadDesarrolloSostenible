@@ -11,13 +11,13 @@ Su objetivo es establecer a Europa como el primer continente neutral en carbono 
 
 Este acuerdo combina múltiples tácticas para reducir los gases que calientan la atmósfera, aumentar la energía solar y eólica y respaldar el reciclaje, además de otras medidas.
 
-- _Ley Climática Europea_
+- 📊 _Ley Climática Europea_
 
 Establece legalmente el compromiso de alcanzar la neutralidad climática en 2050.
 Introduce un objetivo de reducción de emisiones de gases de efecto invernadero de no menos del 55% para 2030 en cuanto a los puntos de referencia de 1990.
 Esta legislación establece una estructura regulatoria para garantizar el cumplimiento de estos objetivos y exige evaluaciones periódicas.
 
-- _Reglamento de divulgación de finanzas sostenibles (SFDR)_
+- 📘 _Reglamento de divulgación de finanzas sostenibles (SFDR)_
 
 Obliga a las partes interesadas del sector financiero a revelar datos claros sobre las repercusiones ecológicas y sociales de sus compromisos financieros.
 
@@ -48,11 +48,11 @@ Fomenta la fabricación respetuosa con el medio ambiente, minimizando los residu
 
 Se prevé que este enfoque ayude tanto a la descarbonización como a la preservación de los activos naturales.
 
-- _Directiva de Memoria Corporativa de Sostenibilidad (CSRD)_
+- ⚖️ _Directiva de Memoria Corporativa de Sostenibilidad (CSRD)_
 
-La CSRD, que reemplaza a la Directiva sobre información no financiera (NFRD), obliga a un mayor número de empresas a revelar sus esfuerzos en materia de sostenibilidad.
+La CSRD, que reemplaza a la Directiva sobre información no financiera (NFRD), obliga a un mayor número de empresas a revelar sus esfuerzos en materia de sostenibilidad, sobre todo a las empresas de mayor capitalización.
 
-Mejora una mayor transparencia en las divulgaciones, abarcando detalles sobre las influencias ecológicas, sociales y administrativas (ESG).
+Mejora una mayor transparencia en las divulgaciones, abarcando detalles sobre las influencias ecológicas, sociales y administrativas (ASG).
 
 Este comando se aplicará a corporaciones grandes y de tamaño moderado, lo que aumentará la claridad de las empresas europeas respecto a las preocupaciones medioambientales.
 
