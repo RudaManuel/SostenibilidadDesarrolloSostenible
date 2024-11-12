@@ -1,7 +1,7 @@
 ## 📆 **La agenda 2030 y ODS**
 
 La _**Agenda 2030 para el Desarrollo Sostenible**_, es un plan de acción a favor de personas, planeta y la prosperidad del mismo, fortaleciendo tambien la paz mundial y una mayor accesibilidad a la justicia. 
-**193 Estados miembros de las Naciones Unidas ONU** formado por una **Asamblea General, Consejo de Seguridad, Consejo Económico y Social (ECOSOC), Secretaría, Corte Internacional de Justicia y Consejo de Administración Fiduciaria** han reconocido que actualmente el mayor desafio es la erradicación de la pobreza y que sin cumplir este objetivo no puede haber un desarrollo sostenible.
+**193 Estados miembros de las 🇺🇳 Naciones Unidas ONU** formado por una **Asamblea General, Consejo de Seguridad, Consejo Económico y Social (ECOSOC), Secretaría, Corte Internacional de Justicia y Consejo de Administración Fiduciaria** han reconocido que actualmente el mayor desafio es la erradicación de la pobreza y que sin cumplir este objetivo no puede haber un desarrollo sostenible.
 La Agenda plantea 17 Objetivos con 169 metas que abarcan los apartados 💵 economico, 👨‍👩‍👧‍👦 social y 🌻 ambiental. Al adoptar estos objetivos los estados se comprometieron a movilizarse especialmente con los mas pobres y vulnerables.
 
 La Agenda 2030 para el Desarrollo Sostenible, es un plan de acción a favor de las personas, el planeta y la prosperidad, que también tiene la intención de fortalecer la paz universal y el acceso a la justicia.
