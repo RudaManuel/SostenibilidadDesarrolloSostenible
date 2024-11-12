@@ -3,7 +3,7 @@
 **Objetivos**: Verificar si las empresas son buenas para vivir de manera más ecológica nos ayuda a ver si les está yendo bien con sus objetivos y en qué medida ayudan con los objetivos mundiales. 
 Esta evaluación se lleva a cabo mediante el examen de elementos ecológicos, sociales y de gobernanza (ESG), que sirven como punto de referencia para las decisiones de financistas, inversores y formuladores de políticas. Evaluación de impacto ambiental: Se trata de medir el impacto ambiental de la empresa.
 
-1. **Criterios ESG (Ambientales, Sociales y de Gobernanza)**
+1. **Criterios ASG (Ambientales, Sociales y de Gobernanza)**
 
 _**Ambientales**_: Abarcan elementos como las descargas de gases de efecto invernadero, los residuos, la utilización óptima de los activos y la influencia en la variedad biológica. Las organizaciones evalúan su huella de carbono, su uso de energía y sus líquidos y desechos, examinando su influencia en el calentamiento global y las biosferas.
 
